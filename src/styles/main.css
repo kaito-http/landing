@@ -1,0 +1,9 @@
+html {
+  background: linear-gradient(#000000, #000000),
+    url("https://source.unsplash.com/8xznAGy4HcY/1920x1080") center center no-repeat fixed;
+  background-size: cover;
+}
+
+.change-transform {
+  will-change: transform;
+}
